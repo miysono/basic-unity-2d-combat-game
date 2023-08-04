@@ -1,7 +1,8 @@
 # basic-unity-2d-combat-game
-One of my first projects in Unity2D
-Wanted to create a Metroidvania-style game
-I added pick-ups, basic character controller and animations and basic enemies
+One of my first projects in Unity2D.
+Wanted to create a Metroidvania-style game.
+I added pick-ups, basic character controller and animations and basic enemies.
+The png assets are deleted from the files because the assets are paid!
 
 https://github.com/miysono/basic-unity-2d-combat-game/assets/108880675/af4b4d16-4caf-4e1d-b86e-be4338e09095
 
